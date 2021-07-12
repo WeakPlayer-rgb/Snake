@@ -1,0 +1,1 @@
+It's a project about cyber biology. Here we try to teach snake move to food without crossing itself
